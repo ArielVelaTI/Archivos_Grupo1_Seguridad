@@ -1,0 +1,12 @@
++-------------+-------------------+--------------------------------------------------+-----------------------------+
+| ID          | Username          | Full Name                                        | Email                       |
++-------------+-------------------+--------------------------------------------------+-----------------------------+
+| 2101047088  | estebanzt         | Esteban | Consultor de Marketing & Fitness Coach | zambotube01@gmail.com       |
+| 6046389210  | alika_vechkanova  | 𝒜𝓁𝒾𝓀𝒶 𝒱ℯ𝒸𝒽𝓀𝒶𝓃ℴ𝓋𝒶                                 | alika.vehckanova@mail.ru    |
+ 16565656566  | marlonvera3118    | Marlon Vera                                      | marlonvera3118@gmail.com    
+| 33527324316 | cevpharma         | CEVPHARMA                                        | ventas@cevpharmaecuador.com |
+| 4513255972  | pensamentos_unico | quer um conselho?                                | jeffersonanjo74@gmail.com   |
+| 10093998872 | evie.audio        | ❤️❤️                                             | andreisemenov0607@gmail.com |
+| 23393967360 | kalieninelei      |                                                  | sofialioon@gmail.com        |
+| 7445183693  | ochoa_liyani      | Mirka Ochoa                                      | mirkacabrera15@gmail.com     |
++-------------+-------------------+--------------------------------------------------+-----------------------------+
